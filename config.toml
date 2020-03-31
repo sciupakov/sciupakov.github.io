@@ -1,0 +1,4 @@
+baseURL = "https://sciupakov.github.io/"
+languageCode = "en-us"
+title = "Andrej Ščiupakov"
+theme = "hugo-coder"
